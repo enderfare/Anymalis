@@ -1,6 +1,6 @@
 {
   "vaultSettings": {
-    "activeTheme": "slate-and-gold",
+    "activeTheme": "Gruvbox Dark",
     "atmosphere": {
       "icons": "core",
       "buttons": "core",
@@ -14,11 +14,11 @@
       "clickEffects": "core",
       "textureOpacity": 0.2
     },
-    "headingFont": "\"Cinzel\", serif",
+    "headingFont": "\"Merriweather\", serif",
     "bodyFont": "\"Spectral\", serif",
     "fontSize": 100,
     "sidebarWidth": 300,
-    "isTocVisible": true,
+    "isTocVisible": false,
     "areInfoboxTagsVisible": true,
     "areFooterTagsVisible": false
   }
