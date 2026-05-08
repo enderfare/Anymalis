@@ -1,6 +1,6 @@
 ---
 title: "Fire"
-image: Glyph.jpg
+image: FireGlyph.jpg
 subtitle: "Element of Fire"
 tags: [ Element,Fire]
 Tier: "Physical"
