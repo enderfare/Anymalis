@@ -2,17 +2,17 @@
   "vaultSettings": {
     "activeTheme": "Gruvbox Dark",
     "atmosphere": {
-      "icons": "core",
-      "buttons": "core",
-      "textures": "core",
-      "typography": "core",
+      "icons": "fantasy-pack",
+      "buttons": "fantasy-pack",
+      "textures": "fantasy-pack",
+      "typography": "fantasy-pack",
       "cursors": "core",
-      "borders": "core",
-      "frames": "core",
-      "uiElements": "core",
+      "borders": "fantasy-pack",
+      "frames": "fantasy-pack",
+      "uiElements": "fantasy-pack",
       "soundscape": "core",
       "clickEffects": "core",
-      "textureOpacity": 0.2
+      "textureOpacity": 0.15
     },
     "headingFont": "\"Merriweather\", serif",
     "bodyFont": "\"Spectral\", serif",
