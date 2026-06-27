@@ -1,160 +1,265 @@
 ---
-title: Core Principles
-tags: [magic, explanation, glyph]
+title: Glyphic Resonance
+tags: [magic, explanation, glyph, resonance, ink, borders]
 ---
-# Core Principles
+# Glyphic Resonance — A Structured Magic System
 
-**Glyphs** are the fundamental symbols of magic, each representing a primal concept. Their **outlines** define how they interact with reality and with each other. Magic users manipulate these outlines to produce effects.
+Magic exists naturally as invisible currents called **Resonance**, flowing beneath reality like unseen tides. **Glyphs** are symbols that shape these currents into physical effects. A glyph alone is meaningless—for magic to function, four components are required:
 
-**Birthmarks & Affinity:** Every magic-sensitive person is born with one elemental variant encoded as a birthmark-glyph. This determines their innate elemental affinity and influences their magical capabilities.
+1. **The Core Glyph** — determines the elemental concept
+2. **The Borders** — define behavior and interaction
+3. **The Ink** — conducts resonance
+4. **The Surface** — stabilizes or alters the effect
 
----
-
-## The Eleven Elements & Their Variants
-
-### **Few Variants = More Power**
-
-**LIGHT** (2 variants - Extremely Powerful)
-1. **Brilliance** - Pure, illuminating, revealing
-2. **Glimmer** - Subtle, guiding, hope-inspiring
-
-**DARKNESS** (2 variants - Extremely Powerful)
-1. **Void** - Absence, emptiness, consumption
-2. **Umbra** - Shadow, concealment, subtlety
-
-**TIME** (3 variants - Very Powerful)
-1. **Flow** - Linear progression, duration
-2. **Still** - Moments, pauses, frozen instants
-3. **Cycle** - Repetition, seasons, echoes
-
-**DEATH** (3 variants - Very Powerful)
-1. **Passing** - Natural transition, release
-2. **Decay** - Entropy, dissolution, withering
-3. **End** - Absolute cessation, finality
-
-**LIFE** (4 variants - Powerful)
-1. **Growth** - Development, maturation, expansion
-2. **Healing** - Restoration, mending, recovery
-3. **Birth** - Creation, beginning, potential
-4. **Connection** - Bonds, relationships, ecosystems
-
-**MATTER** (5 variants - Moderately Powerful)
-1. **Density** - Mass, weight, solidity
-2. **Texture** - Surface qualities, friction
-3. **Transparency** - Clarity, opacity, refractive properties
-4. **Resonance** - Vibrational properties, harmonics
-5. **State** - Solid/liquid/gas/plasma transitions
-
-**TEMPERATURE** (6 variants - Moderate Power)
-1. **Heat** - Thermal energy increase
-2. **Cold** - Thermal energy decrease
-3. **Equilibrium** - Temperature balancing
-4. **Conduction** - Heat transfer through contact
-5. **Insulation** - Heat resistance, containment
-6. **Phase-Change** - Boiling/freezing points
-
-**[[Fire|FIRE]]** (7 variants - Somewhat Powerful)
-1. **Flame** - Combustion, light, heat
-2. **Ember** - Sustained heat, potential fire
-3. **Blaze** - Raging, uncontrollable fire
-4. **Cinder** - Remnants, ash, dying fire
-5. **Spark** - Ignition, beginnings, electrical fire
-6. **Wildfire** - Spreading, consuming, natural fire
-7. **Hearth** - Contained, warming, domestic fire
-
-**[[WATER]]** (8 variants - Moderate-Low Power)
-1. **Flow** - Rivers, currents, movement
-2. **Still** - Lakes, calm, reflection
-3. **Tide** - Rhythmic, cyclical, lunar-influenced
-4. **Rain** - Precipitation, nourishment, weather
-5. **Ice** - Frozen, rigid, crystalline
-6. **Mist** - Vapor, concealment, transition
-7. **Deep** - Ocean, pressure, mysteries
-8. **Spring** - Source, purity, renewal
-
-**EARTH** (9 variants - Lower Power)
-1. **Stone** - Rock, foundations, permanence
-2. **Soil** - Fertility, growth medium, soft earth
-3. **Crystal** - Structured, refractive, energy-conducting
-4. **Metal** - Malleable, conductive, durable
-5. **Sand** - Granular, shifting, abrasive
-6. **Clay** - Malleable when wet, hard when fired
-7. **Mountain** - Majestic, immovable, towering
-8. **Cave** - Hollow, protective, dark spaces
-9. **Gem** - Rare, valuable, magical foci
-
-**WIND** (10 variants - Least Powerful)
-1. **Breeze** - Gentle, refreshing, subtle
-2. **Gale** - Strong, powerful, storm-related
-3. **Zephyr** - West wind, gentle, warm
-4. **Whisper** - Sound-carrying, information
-5. **Vacuum** - Absence of air, stillness
-6. **Current** - Directional flow, consistent
-7. **Vortex** - Spinning, concentrated, destructive
-8. **Breath** - Life-sustaining, personal
-9. **Stormwind** - Chaotic, thunder-bearing
-10. **Jet** - Focused, high-speed, cutting
+Magic is both an art form and a branch of resonance engineering. A poorly designed glyph may collapse, mutate, misfire, consume surrounding resonance, or permanently scar reality.
 
 ---
 
-## Ten Outline Types
+## Birthmarks & Elemental Affinity
 
-1. **Foundation Outline** - Basic shape, determines elemental affinity
-2. **Reaction Outline** - How glyph interacts with other glyphs
-3. **Amplification Outline** - Increases power/scale of effect
-4. **Precision Outline** - Focuses effect on specific target/area
-5. **Duration Outline** - Determines how long effect lasts
-6. **Trigger Outline** - Sets conditions for activation
-7. **Containment Outline** - Limits/contains the magical effect
-8. **Transformation Outline** - Changes nature of effect over time
-9. **Connection Outline** - Links multiple glyphs together
-10. **Resonance Outline** - Creates harmonic/sympathetic effects
+Every magic-sensitive individual is born with a natural glyph-like birthmark called a **Resonant Scar**. The scar encodes one element and one specific variant, determining the mage’s natural affinity.
 
----
+**Affinity grants:**
+- Lower resonance consumption
+- Easier spell stabilization
+- Greater precision
+- Instinctive understanding of the element
+- Resistance to backlash from aligned elements
 
-## System Mechanics
-
-**Glyph Combination:** By stacking or interlocking outlines, practitioners can create complex spells. For example:
-- Fire glyph with Precision + Amplification outlines = Focused laser-like flame
-- Water glyph with Duration + Transformation outlines = Water that gradually turns to ice
-
-**Affinity Advantages:** Those born with a specific elemental variant:
-- Require less energy to use that element
-- Can achieve more subtle effects with their element
-- Have intuitive understanding of their element's properties
-- Their birthmark sometimes glows/reacts when using their affinity element
-
-**Limitations:**
-- Using elements outside one's affinity requires significantly more energy
-- Overuse of magic causes "glyph fatigue" - temporary inability to focus on outlines
-- Opposing elements (Light/Darkness, Life/Death, Fire/Water) are difficult for one person to master simultaneously
+During casting, birthmarks often glow, spread slightly, pulse rhythmically, or leak elemental traces. Rare affinities are treated as omens, blessings, or curses depending on culture.
 
 ---
 
-## Example Character
+## Elemental Hierarchy
 
-**Name:** Elara
-**Birthmark:** A spiraling glyph on her left shoulder resembling flowing water
-**Elemental Variant:** Water - "Flow" variant
-**Affinity Effects:** Can manipulate currents with minimal effort, sense water movement nearby, stay hydrated more easily
+The fewer variants an element possesses, the more concentrated and powerful its resonance becomes. Rare elements are vastly stronger but harder to control.
 
-**Spell Example:** 
-Elara combines her Flow glyph with:
-- Precision Outline (to target a specific plant)
-- Duration Outline (to water it slowly over hours)
-- Transformation Outline (to add trace nutrients)
+### The Eleven Elements & Their Variants
 
-The stacked outlines create a gentle, nourishing irrigation spell that helps the plant grow stronger than normal watering would.
+#### Few Variants = More Power
+
+**LIGHT** (2 variants — Extremely Powerful)
+1. **Brilliance** — Pure illumination, revelation, truth
+2. **Glimmer** — Guidance, hope, subtle radiance
+*Users expose illusions, lies, and destabilize corrupted resonance.*
+
+**DARKNESS** (2 variants — Extremely Powerful)
+1. **Void** — Absence, consumption, emptiness
+2. **Umbra** — Shadow, concealment, subtle manipulation
+*Specialize in removal: sound, light, memory, presence, resonance itself.*
+
+**TIME** (3 variants — Very Powerful)
+1. **Flow** — Progression and movement through time
+2. **Still** — Moments frozen in suspension
+3. **Cycle** — Repetition, echoes, recurring patterns
+*Notoriously unstable; resonance naturally resists temporal distortion.*
+
+**DEATH** (3 variants — Very Powerful)
+1. **Passing** — Natural endings and release
+2. **Decay** — Entropy, corrosion, deterioration
+3. **End** — Absolute cessation
+*Governs endings, not necessarily killing. Advanced glyphs can end movement, sound, fire, memory, even resonance flow.*
+
+**LIFE** (4 variants — Powerful)
+1. **Growth** — Expansion and development
+2. **Healing** — Restoration and repair
+3. **Birth** — Creation and potential
+4. **Connection** — Bonds and ecosystems
+*Uniquely capable of synchronizing with living resonance.*
+
+**MATTER** (5 variants — Moderately Powerful)
+1. **Density** — Mass and weight
+2. **Texture** — Surface properties
+3. **Transparency** — Refraction and clarity
+4. **Resonance** — Vibration and harmonics
+5. **State** — Solid/liquid/gas transformation
+*Essential for magical engineering.*
+
+**TEMPERATURE** (6 variants — Moderate Power)
+1. **Heat**
+2. **Cold**
+3. **Equilibrium**
+4. **Conduction**
+5. **Insulation**
+6. **Phase-Change**
+*Alter environmental balance without directly producing elements.*
+
+**[[Fire|FIRE]]** (7 variants)
+1. **Flame**
+2. **Ember**
+3. **Blaze**
+4. **Cinder**
+5. **Spark**
+6. **Wildfire**
+7. **Hearth**
+*Aggressive and difficult to contain. Wildfire variants consume nearby glyphs.*
+
+**[[WATER]]** (8 variants)
+1. **Flow**
+2. **Still**
+3. **Tide**
+4. **Rain**
+5. **Ice**
+6. **Mist**
+7. **Deep**
+8. **Spring**
+*Highly adaptive, synergize well with Transformation Borders.*
+
+**EARTH** (9 variants)
+1. **Stone**
+2. **Soil**
+3. **Crystal**
+4. **Metal**
+5. **Sand**
+6. **Clay**
+7. **Mountain**
+8. **Cave**
+9. **Gem**
+*Builders, miners, architects, and resonance-smiths.*
+
+**WIND** (10 variants — Least Concentrated)
+1. **Breeze**
+2. **Gale**
+3. **Zephyr**
+4. **Whisper**
+5. **Vacuum**
+6. **Current**
+7. **Vortex**
+8. **Breath**
+9. **Stormwind**
+10. **Jet**
+*Individually weaker but extremely versatile and quick to cast.*
 
 ---
 
-## Cultural Significance
+## Resonance Ink
 
-Those with rare, low-variant elements (Light, Darkness, Time, Death) are often viewed with awe or fear. Their birthmarks are considered marks of destiny. Schools of magic categorize students by their birthmark glyphs, and arranged marriages sometimes consider glyph compatibility for producing children with desirable elemental affinities.
+Normal ink cannot channel resonance. Every spell requires specialized conductive ink. The composition changes how magic behaves.
 
-The system creates natural societal roles:
-- Earth (Clay/Soil) variants as potters and farmers
-- Water (Healing/Spring) variants as doctors
-- Wind (Whisper/Current) variants as messengers
-- Fire (Hearth/Ember) variants as smiths and cooks
-- Time (Flow/Still) variants as historians and strategists
+| Ink Type          | Composition                     | Effects                                        | Weakness                |
+| ----------------- | ------------------------------- | ---------------------------------------------- | ----------------------- |
+| Silverthread      | Powdered silver, moonwater      | High precision, stable resonance, ideal for Time/Light | Poor amplification      |
+| Ember Ash         | Volcanic ash, monster blood     | Explosive amplification, violent output        | High backlash risk      |
+| Verdant Sap       | Ancient tree resin              | Regenerative spells, long duration, organic transformation | Slow activation         |
+| Hollow            | Void fungus, grave soot         | Silence, concealment, resonance absorption     | Slowly damages surfaces |
+| Glasswater        | Crystal powder, purified rainwater | Reflective magic, illusion duplication, repeating effects | Fragile stability       |
+
+---
+
+## Resonant Surfaces
+
+The material a glyph is drawn upon changes the outcome dramatically.
+
+- **Stone** — Stable, powerful; barriers, city glyphs, permanent enchantments.
+- **Skin** — Fast, efficient; combat enhancement, emergency casting. *Risks: resonance poisoning, mutations, living scars.*
+- **Paper** — Cheap, temporary; scrolls, one-time spells, messenger glyphs.
+- **Cloth** — Flexible flow; traps, moving glyphs, enchanted clothing.
+- **Metal** — Highly conductive; weapons, machinery, precision arrays.
+- **Living Wood** — Slowly absorbs resonance; healing structures, autonomous glyph systems, long-term enchantments.
+
+---
+
+## Borders (Fifteen Types)
+
+Borders determine how resonance behaves. Simple spells may use one or two; master-level spells layer dozens.
+
+1. **Foundation** — Defines elemental identity.
+2. **Flow** — Controls directional movement.
+3. **Amplification** — Increases output intensity.
+4. **Precision** — Narrows effect area.
+5. **Duration** — Maintains spell longevity.
+6. **Trigger** — Defines activation conditions.
+7. **Containment** — Prevents overflow.
+8. **Transformation** — Alters effects over time.
+9. **Connection** — Links multiple glyphs.
+10. **Resonance** — Synchronizes nearby spells.
+11. **Echo** — Repeats effects after delay.
+12. **Anchor** — Stabilizes reality around the spell.
+13. **Veil** — Conceals the glyph.
+14. **Pulse** — Creates rhythmic activation.
+15. **Fracture** — Destabilizes resonance intentionally. *Extremely dangerous.*
+
+---
+
+## Spell Construction
+
+Spells are created by combining a core glyph, borders, conductive ink, and a resonant surface. Even identical glyphs behave differently depending on craftsmanship and materials. Two mages may draw the same Fire glyph and produce entirely different outcomes.
+
+### Example Spells
+
+**Hearthskin**
+- **Element:** Fire — Hearth
+- **Ink:** Verdant Sap
+- **Surface:** Skin
+- **Borders:** Containment, Duration, Pulse
+- **Effect:** Radiates gentle warmth that protects against cold, calms emotions, and slowly restores stamina. Nearby allies unconsciously synchronize heartbeats.
+
+**Thousand-Step Pilgrim**
+- **Element:** Wind — Current + Time — Flow
+- **Ink:** Silverthread
+- **Surface:** Boots (leather/cloth)
+- **Borders:** Flow, Precision, Pulse
+- **Effect:** Stores momentum with each step; after sufficient movement, the user can cross enormous distances instantly.
+
+**Glass Rain Archive**
+- **Element:** Water — Mist + Time — Still
+- **Ink:** Glasswater
+- **Surface:** Cathedral windows
+- **Borders:** Echo, Duration, Resonance
+- **Effect:** Rain touching the glass records fragments of nearby memories, later replayed through reflections.
+
+**Hollow Choir**
+- **Element:** Darkness — Umbra
+- **Ink:** Hollow
+- **Surface:** Masks
+- **Borders:** Veil, Connection, Resonance
+- **Effect:** Silent communication through linked shadows. Extended use slowly blends personalities together.
+
+**Starvation Engine**
+- **Element:** Death — Decay
+- **Ink:** Ember Ash
+- **Surface:** Iron plates
+- **Borders:** Amplification, Fracture, Connection
+- **Effect:** Rapidly decomposes stone, metal, and defensive structures. Eventually consumes itself. Forbidden in most nations.
+
+---
+
+## Glyph Fatigue
+
+Using magic strains the mind’s ability to maintain resonance structure. Symptoms include shaking hands, blurred vision, glowing veins, and temporary loss of elemental control. Extreme overuse may create **Hollows**—humans whose bodies become partially transformed into living glyph systems; reality bends around them unpredictably.
+
+---
+
+## Affinity Evolution
+
+A Resonant Scar may evolve through trauma, near-death experiences, ancient rituals, or resonance overload (e.g., Water — Flow → Water — Deep). Such changes physically alter the birthmark. Rare evolutions are considered signs of destiny.
+
+---
+
+## Society & Culture
+
+Magic deeply shapes civilization. Key professions include:
+
+- **Resonance-Smiths** — Craft magical inks and conductive materials.
+- **Scribes** — Professional glyph designers and spell-calligraphers.
+- **Fleshbinders** — Tattoo glyphs onto living bodies; feared and heavily regulated.
+- **Architects** — Create permanent magical structures; entire cities depend on them.
+- **Null Monks** — Intentionally destroy their own Resonant Scar to become immune to most magic.
+
+---
+
+## Forbidden Techniques
+
+- **Inverted Glyphs** — Borders drawn backward, creating unnatural effects.
+- **Living Ink** — Ink mixed with blood and soul fragments; spells develop instinct and partial sentience.
+- **Recursive Glyphs** — Self-redrawing glyphs. Can create eternal storms, endless fire, or localized time loops. Many ancient civilizations fell because of them.
+
+---
+
+## Philosophy
+
+Magic is not about overpowering reality. It is about understanding how reality resonates—and persuading it to sing a different song.
+
+---
+
+
