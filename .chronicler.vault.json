@@ -24,6 +24,9 @@
     "areLinkPreviewsEnabled": true,
     "areMapPreviewsEnabled": true,
     "showImages": true,
-    "showExternalFiles": false
+    "showExternalFiles": false,
+    "imageImportLocation": "folder",
+    "imageImportDir": "images",
+    "promptForImageName": false
   }
 }
