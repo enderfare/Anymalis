@@ -18,6 +18,7 @@
     "bodyFont": "\"Spectral\", serif",
     "fontSize": 100,
     "sidebarWidth": 399,
+    "isSidebarVisible": true,
     "isTocVisible": false,
     "areInfoboxTagsVisible": true,
     "areFooterTagsVisible": false,
