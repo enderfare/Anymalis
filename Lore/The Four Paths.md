@@ -1,32 +1,113 @@
 ---
 title: "The Four Paths"
 subtitle: "*Scribe, Channeler, Artificer, Null*"
-tags: [ Lore, Class, Paths ]
+tags: [Lore, Class, Paths]
 ---
+
 # The Four Resonance Paths
 
-In Glyphic Resonance, strength follows four distinct philosophies, each interacting with magic differently.
+The Four Paths describe the principal ways characters interact with Anymalis and Elemental Resonance.
+
+A Path is a specialization, not an Elemental Affinity.
+
+A character's Path and Elemental Affinity are separate concepts.
+
+---
 
 ## 1. Scribes — Traditional Glyph Casters
+
 **Strengths:** Versatility, rituals, battlefield control, utility.
-**Weaknesses:** Vulnerable under pressure, material‑dependent, SAN instability.
-**Resources:** ANI (Animent), INK (Glyphic Ink Capacity), SAN (Sanity).
-Scribes draw glyphs with conductive ink on resonant surfaces. Their spells can be unimaginably powerful, but require time, steady hands, and unbroken concentration.
+
+**Weaknesses:** Vulnerable under pressure, traditionally material-dependent, concentration demands.
+
+**Resources:** ANI (Animen), INK (Glyphic Ink Capacity), SAN.
+
+Scribes specialize in designing and constructing Glyphs.
+
+They traditionally draw Glyphs with conductive Ink on appropriate Surfaces. A Scribe with sufficient Animen may use direct construction instead of conventional Ink when their abilities permit it.
+
+Scribes are defined by their mastery of Glyph construction, not by mandatory use of Ink.
+
+---
 
 ## 2. Channelers — Body Resonance Warriors
-**Strengths:** Speed, anti‑mage combat, durability, immediate activation.
-**Weaknesses:** STR build‑up, limited range, physical self‑damage.
+
+**Strengths:** Speed, anti-mage combat, durability, immediate activation.
+
+**Weaknesses:** Strain build-up, limited range, physical self-damage.
+
 **Resources:** ENR (Energy), STRN (Strain).
-Channelers force resonance through their own bodies, achieving superhuman bursts of speed, iron‑hard skin, or strikes that shatter active glyphs. They are the bane of spellcasters who allow them to close distance.
+
+Channelers force Elemental Resonance through their own bodies, achieving superhuman bursts of speed, reinforced bodies, or strikes that disrupt active Glyphs.
+
+---
 
 ## 3. Artificers — Resonance Engineers
-**Strengths:** Preparation, versatility, equipment specialisation.
+
+**Strengths:** Preparation, versatility, equipment specialization.
+
 **Weaknesses:** Resource dependence, vulnerable without tools.
-Artificers may lack natural affinity, but they master tools: resonance cartridges, fold‑glyph arrays, conductive wires, and enchanted devices. A well‑prepared Artificer can match any mage.
 
-## 4. Nulls — Anti‑Resonance Specialists
-**Strengths:** Anti‑magic resistance, glyph disruption, immunity to resonance manipulation.
-**Weaknesses:** Cannot benefit from most enchantments, socially feared.
-Nulls possess damaged or absent resonance signatures. They project Dead Zones, silence magical items, and are invisible to mental resonance. In a world saturated with magic, they are the ultimate equalisers.
+Artificers specialize in creating tools, weapons, devices, and other equipment that use Glyphs.
 
-No path is universally superior. Combat is tactical: mages dominate preparation and control; martial specialists dominate close‑quarters pressure. The greatest warriors understand how to leverage their path’s strengths and cover its weaknesses.
+An Artificer may possess a natural Elemental Affinity, or may lack one entirely.
+
+Natural affinity is therefore not a requirement for being an Artificer.
+
+An Artificer with an affinity may incorporate their own Elemental Resonance into their work. An Artificer without an affinity can instead rely on stored Resonance, prepared materials, cartridges, external conductors, or other devices.
+
+The defining feature of the Path is **Resonance engineering**, not natural magical talent.
+
+---
+
+## 4. Nulls — Anti-Resonance Specialists
+
+**Strengths:** Anti-magic resistance, Glyph disruption, resistance to conventional Resonance manipulation.
+
+**Weaknesses:** Cannot benefit normally from many enchantments, socially feared.
+
+Null is both an established Path and a broader condition/category used to describe individuals whose Resonant signatures are absent, damaged, suppressed, or deliberately severed.
+
+This includes several origins:
+
+- **Natural Nulls** — born without a functional Resonant signature.
+- **Damaged Nulls** — their Resonant Scar has been damaged or partially lost.
+- **Severed Nulls** — deliberately severed or destroyed their own Resonant Scar.
+
+**Null Monks** are a specific tradition associated with deliberately destroying their own Resonant Scar.
+
+Nulls can project or create Dead Zones, disrupt Glyphs, and interfere with conventional Elemental Resonance.
+
+---
+
+# Path and Affinity
+
+Path and Affinity are independent.
+
+Examples:
+
+```text
+Artificer + Fire Affinity
+Artificer + No Affinity
+Scribe + Fire Affinity
+Channeler + Water Affinity
+Null + Damaged Scar
+```
+
+None of these combinations contradicts the Path system.
+
+---
+
+# No Path Is Universally Superior
+
+Combat is tactical.
+
+Scribes dominate preparation and control.
+
+Channelers dominate close-range pressure.
+
+Artificers dominate preparation through equipment.
+
+Nulls specialize in disruption and anti-Resonance techniques.
+
+The strongest characters understand how to exploit their Path while compensating for its weaknesses.
