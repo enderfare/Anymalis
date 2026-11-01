@@ -28,6 +28,7 @@
     "showExternalFiles": false,
     "imageImportLocation": "folder",
     "imageImportDir": "images",
-    "promptForImageName": false
+    "promptForImageName": false,
+    "welcomeBanner": "default"
   }
 }

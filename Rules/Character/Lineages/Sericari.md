@@ -20,11 +20,11 @@ Distinctions: "Arachnid features, multiple arms, natural silk production"
 Average Height: "5'0'' – 6'5''"
 Average Weight: "100 – 180 lbs"
 ATS_Base: "+2 ATS"
-AttributeBonuses: "+2 Agility, +1 Insight"
-RacialTraits: ["Silk Production", "Silkweaving", "Resonant Thread"]
-ResonanceAffinity: "Determined by Silk-Lineage"
-ResonanceVariant: "Determined by individual"
-ResonanceTraits: ["Natural silk can conduct Resonance", "Silk-Lineage determines Elemental Affinity"]
+AttributeBonuses: "Legacy: +2 Agility, +1 Insight — Agility requires migration review"
+RacialTraits: ["Silkbound", "Resonant Thread"]
+ResonanceAffinity: "Silk-Lineage relationship; individual affinity determined by Resonant Scar"
+ResonanceVariant: "Determined by individual Resonant Scar"
+ResonanceTraits: ["Natural silk can conduct Resonance", "Silk-Lineages develop around particular Elements"]
 GlyphicInkBonus: "+1"
 CommonPaths: ["Scribe", "Channeler", "Artificer", "Null"]
 SubLineages: ["Silk-Lineages"]
@@ -40,72 +40,185 @@ Their silk is not merely a biological secretion.
 
 Through generations of cultivation and Resonance exposure, Sericari have learned to use their silk as a **living conductor**.
 
+Sericari societies are organized around craft, cultivation, weaving, and the preservation of techniques passed through generations.
+
+Their most distinctive cultural identities are their **Silk-Lineages**: biological and cultural lineages shaped by Element, environment, and adaptation.
+
+---
+
+## Skill Training
+
+Sericari gain **one Skill Training** associated with their traditional relationship with silk, craft, construction, or Resonance.
+
+Common choices include:
+
+* Crafting
+* Weaving
+* Glyph Construction
+* Architecture
+* Ritual Practice
+* Appraisal
+* Agriculture or Cultivation
+
+The specific Skill Training should reflect the character's upbringing or Silk-Lineage.
+
+A starting Skill may not normally exceed **Skilled** through this feature.
+
+---
+
+## Lineage Trait
+
+### Silkbound
+
+Sericari possess a natural biological relationship with silk.
+
+They can produce, manipulate, and work with their own silk as part of ordinary physical activity.
+
+Their silk may be used for:
+
+* Clothing
+* Cordage
+* Bindings
+* Nets
+* Tools
+* Structural supports
+* Decorative craft
+* Specialized Resonance applications
+
+The exact properties of Sericari silk depend on the material produced and any relevant Silk-Lineage, Trait, Technique, or Resonance construction.
+
+---
+
+## Lineage Technique
+
+### Resonant Thread
+
+**Source:** Sericari Lineage
+**Requirements:** Sericari silk
+**Action:** Varies by application
+
+A Sericari can incorporate their natural silk into Resonance constructions.
+
+Suitable silk can function as a **Resonant Thread**, allowing the Sericari to conduct Resonance through woven or connected silk structures.
+
+This may allow silk to serve as a conductor in applicable Glyph constructions, provided the construction permits a suitable conductive material.
+
+**Limitations:**
+
+* Silk does not automatically replace every conductive material.
+* The normal requirements of the Glyph remain in effect.
+* Complex Resonant Thread constructions may require appropriate Skills, Techniques, tools, or preparation.
+* Using silk as a conductor does not grant an Elemental Affinity.
+
+---
+
 ## Silk Production
 
-Sericari naturally produce a strong, flexible silk.
+Sericari naturally produce a strong and flexible silk.
 
-The silk can be woven into clothing, rope, tools, structures, and Resonance-conductive materials.
+A Sericari can produce enough silk during ordinary activity to create simple thread, cord, or binding material.
 
-**Mechanical Effect:** A Sericari can produce enough natural silk to create simple thread, cord, or binding material during a rest. More elaborate quantities require additional time and resources.
+More elaborate quantities or specialized silk constructions require additional time, resources, or appropriate techniques.
+
+Silk Production is part of the Sericari's biological identity rather than a separate character feature.
+
+---
 
 ## Silkweaving
 
-Sericari are naturally skilled at manipulating their own silk.
+Sericari possess an innate ability to manipulate their own silk with considerable precision.
 
-They can weave intricate structures with remarkable precision.
+This allows them to create intricate woven structures and contributes to the Sericari tradition of textile craft, architecture, toolmaking, and Resonance construction.
 
-**Mechanical Effect:** Sericari gain proficiency with weaving tools or a comparable crafting skill.
+Silkweaving should normally be represented through the character's Skills, Specializations, Traits, and Techniques rather than as a separate universal mechanical feature.
 
-## Resonant Thread
+---
 
-Sericari silk can conduct Resonance.
+## Resonant Silk
 
-A trained Sericari can use woven silk as an alternative conductor when constructing or activating certain Glyphs.
+Sericari silk is naturally capable of conducting Resonance.
 
-**Mechanical Effect:** Sericari may substitute suitable natural silk for conventional conductive material in applicable Resonance techniques, subject to the normal material requirements of the Glyph.
+The silk may therefore be incorporated into appropriate magical constructions as a conductive medium.
 
-## Silk-Lineage Affinity
+Particularly skilled Sericari can create complex networks of woven silk capable of carrying Resonance across structures, objects, or prepared surfaces.
 
-Sericari culture is divided into numerous **Silk-Lineages**.
+These applications interact with the existing **Glyphic Resonance** rules and do not create a separate form of magic.
 
-Each Silk-Lineage is associated with a particular Element.
+---
 
-The Element determines the general Resonance environment in which the lineage developed.
+## Silk-Lineages
 
-An individual Sericari's specific Resonant Scar determines their Variant.
+Sericari are divided into numerous **Silk-Lineages**.
+
+A Silk-Lineage is both a biological inheritance and a cultural identity.
+
+It develops through the interaction of:
+
+**Element + Environment + Cultural Adaptation**
+
+Silk-Lineages are therefore not simply elemental subraces.
+
+They represent communities whose bodies, traditions, architecture, craft, and Resonance practices have developed around a particular relationship with an Element.
+
+Examples may include:
+
+* **Emberweave** — Fire
+* Other Silk-Lineages associated with different Elements
+
+The old elemental Silk-Lineages are historical references unless specifically revived.
+
+A Silk-Lineage may provide additional Traits, Techniques, Specializations, cultural practices, or Resonance traditions.
+
+---
+
+## Resonant Scar
+
+A Sericari's individual **Resonant Scar** determines their natural Elemental Affinity when they possess one.
+
+The standard model is:
+
+**Sericari → Silk-Lineage → Individual**
+
+The Silk-Lineage establishes the environment and tradition from which the individual comes.
+
+The individual's Resonant Scar establishes their specific:
+
+**Element + Variant**
 
 For example:
 
-**Sericari → Emberweave → Fire → specific Fire Variant**
+**Sericari → Emberweave → Fire → individual Fire Variant**
 
-The Silk-Lineage does not determine every ability a Sericari can possess.
+A Silk-Lineage therefore creates a strong relationship with an Element without automatically determining the individual's Variant.
 
-It establishes a cultural and biological affinity that shapes their relationship with Resonance.
+An individual's Resonant Scar may align with their Silk-Lineage, differ from it, or develop in unusual circumstances according to the normal Resonance rules.
 
-## Elemental Affinity
+---
 
-A Sericari belonging to a Silk-Lineage gains a natural affinity with that lineage's Element.
+## Elemental Relationship
 
-Their affinity provides:
+Silk-Lineages often cultivate a particular Element over generations.
 
-* Reduced Resonance consumption when using their associated Element.
-* Easier stabilization of Glyphs using that Element.
-* Greater precision when shaping that Element.
-* Improved resistance against backlash from that Element.
-* Instinctive understanding of their associated Resonance.
+This can influence:
 
-The exact mechanical benefits should follow the standard **Elemental Affinity** rules.
+* Architecture
+* Craft traditions
+* Agricultural practices
+* Rituals
+* Clothing
+* Tools
+* Settlement design
+* Combat techniques
+* Resonance education
+* Cultural identity
 
-## Silk-Lineage
+This relationship does **not** replace the individual's Resonant Scar.
 
-A Sericari character should normally select or inherit a Silk-Lineage.
+Where a Sericari has an Elemental Affinity, its mechanical benefits follow the standard **Elemental Affinity** rules.
 
-Examples include:
+Silk-Lineage itself does not grant a separate Affinity bonus unless a specific Silk-Lineage rule establishes one.
 
-* **Emberweave** — Fire
-* Other Silk-Lineages — determined by the Element they cultivate
-
-A Silk-Lineage may provide additional racial traits beyond the base Sericari traits.
+---
 
 ## Paths
 
@@ -113,12 +226,29 @@ Sericari can follow any of the Four Paths.
 
 Their culture is particularly associated with:
 
-* **Scribes** — glyphweavers, ritualists, and Resonance scholars.
-* **Artificers** — master craftsmen who combine silk with Resonance.
-* **Channelers** — combatants who incorporate silk into movement and technique.
-* **Nulls** — uncommon, but possible.
+### Scribes
+
+Glyphweavers, ritualists, magical scholars, architects, and keepers of Resonance knowledge.
+
+### Artificers
+
+Master craftsmen who combine silk, materials, tools, and Resonance to create structures and devices.
+
+### Channelers
+
+Combatants and practitioners who incorporate silk into movement, positioning, restraint, and physical techniques.
+
+### Nulls
+
+Less common than Scribes and Artificers, but fully possible among Sericari.
+
+A Sericari's Path is independent of their Silk-Lineage and Resonant Scar.
+
+---
 
 ## Common Roles
+
+Common Sericari occupations and social roles include:
 
 * Weaver
 * Artisan
@@ -132,24 +262,75 @@ Their culture is particularly associated with:
 * Silk Farmer
 * Trader
 
-## Base Sericari Traits
+These are cultural examples rather than mechanical restrictions.
 
-All Sericari possess the following traits unless modified by their Silk-Lineage:
+---
 
-**Silk Production**
-The ability to naturally produce silk.
+## Biological Notes
 
-**Silkweaving**
-The ability to manipulate and craft with silk.
+Sericari possess distinctive arachnid characteristics, including multiple arms and natural silk production.
 
-**Resonant Thread**
-The ability to use silk as a Resonance conductor.
+Their biology supports a culture built around weaving, climbing, construction, and the cultivation of silk.
 
-Additional abilities come from the character's chosen Silk-Lineage.
+Their natural silk varies according to individual biology, environment, cultivation, and Silk-Lineage.
+
+### ATS
+
+The legacy Sericari entry records:
+
+**ATS Base: +2 ATS**
+
+ATS is treated as a biological statistic rather than part of the standard Lineage feature package.
+
+Its exact interaction with character creation and derived statistics follows the separate **Biology** rules.
+
+### Attribute Bonuses
+
+The legacy lineage records:
+
+**+2 Agility, +1 Insight**
+
+Insight remains a current Attribute.
+
+**Agility is not currently one of the six standard Attributes** and therefore requires migration review before the legacy bonus can be converted into a current mechanical value.
+
+The legacy bonus should not be silently converted into Finesse.
+
+### Glyphic Ink
+
+The legacy Sericari entry records:
+
+**Glyphic Ink Bonus: +1**
+
+This value is retained as lineage metadata pending the formal integration of elemental or lineage-based Ink bonuses into the current Magic System.
+
+---
+
+## Character Considerations
+
+A Sericari character should be understood through three connected layers:
+
+**Base Sericari**
+
+Body + Silk + Craft
+
+**Silk-Lineage**
+
+Elemental environment + Culture + Biological adaptation
+
+**Individual**
+
+Variant + Path + Skills + Techniques + Experiences + Beliefs
+
+No single layer should completely determine the character.
+
+A Sericari raised in one Silk-Lineage may reject its traditions, adopt practices from another community, follow an unusual Path, or develop a Resonant Scar that does not match the Element traditionally associated with their lineage.
+
+---
 
 ## Design Principle
 
-Sericari should feel like a **base lineage with modular elemental identities**.
+Sericari should feel like a **base lineage with modular cultural and elemental identities**.
 
 The base Sericari defines:
 
@@ -157,8 +338,10 @@ The base Sericari defines:
 
 The Silk-Lineage defines:
 
-**Element + Culture + Adaptation**
+**Elemental tradition + Culture + Adaptation**
 
 The individual defines:
 
-**Variant + Path + Technique**
+**Variant + Path + Skills + Techniques + Experiences + Beliefs**
+
+The result should allow Sericari communities to feel meaningfully different from one another without turning every Element into a separate species.
