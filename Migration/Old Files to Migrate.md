@@ -1,0 +1,191 @@
+# Old Repository Inventory
+
+This is the source snapshot placed under `Old/Repository Snapshot/`. Total files inventoried: **187**.
+
+- `.chronicler.vault.json`
+- `Clans/Water/Rimekin.md`
+- `Examples/Character/Character Seraphine Vale.md`
+- `Examples/Character/Character-Sheet.md`
+- `Examples/Spell Construction Examples.md`
+- `Lineages (Simple) Outdated/Afflictions/Luminaris.md`
+- `Lineages (Simple) Outdated/Corveki.md`
+- `Lineages (Simple) Outdated/Drifters.md`
+- `Lineages (Simple) Outdated/Felinnari.md`
+- `Lineages (Simple) Outdated/Sericari.md`
+- `Lineages (Simple) Outdated/Sericari/Darkness Sericari (Umbrasilk).md`
+- `Lineages (Simple) Outdated/Sericari/Death Sericari (Graveweaver).md`
+- `Lineages (Simple) Outdated/Sericari/Earth Sericari (Stonecoil).md`
+- `Lineages (Simple) Outdated/Sericari/Fire Sericari (Embercoil).md`
+- `Lineages (Simple) Outdated/Sericari/Life Sericari (Verdant).md`
+- `Lineages (Simple) Outdated/Sericari/Light Sericari (Lumithread).md`
+- `Lineages (Simple) Outdated/Sericari/Matter Sericari (Structureweaver).md`
+- `Lineages (Simple) Outdated/Sericari/Temperature Sericari (Thermoweaver).md`
+- `Lineages (Simple) Outdated/Sericari/Time Sericari (Chronothread).md`
+- `Lineages (Simple) Outdated/Sericari/Water Sericari (Tidewoven).md`
+- `Lineages (Simple) Outdated/Sericari/Wind Sericari (Stormthread).md`
+- `Lore/Clans/Water/Rimekin.md`
+- `Lore/Lineages/Afflictions/Illuminated.md`
+- `Lore/Lineages/Drifters.md`
+- `Lore/Lineages/Sericari.md`
+- `Lore/The Four Paths.md`
+- `Lore/The Resonance World.md`
+- `Magic System/Core Principles.md`
+- `Magic System/Elements/Darkness.md`
+- `Magic System/Elements/Death.md`
+- `Magic System/Elements/Earth.md`
+- `Magic System/Elements/Fire.md`
+- `Magic System/Elements/Legendary Elements.md`
+- `Magic System/Elements/Life.md`
+- `Magic System/Elements/Light.md`
+- `Magic System/Elements/Matter.md`
+- `Magic System/Elements/Sub-Elements/Darkness/Umbra.md`
+- `Magic System/Elements/Sub-Elements/Darkness/Void.md`
+- `Magic System/Elements/Sub-Elements/Death/Decay.md`
+- `Magic System/Elements/Sub-Elements/Death/End.md`
+- `Magic System/Elements/Sub-Elements/Death/Passing.md`
+- `Magic System/Elements/Sub-Elements/Earth/Cave.md`
+- `Magic System/Elements/Sub-Elements/Earth/Clay.md`
+- `Magic System/Elements/Sub-Elements/Earth/Crystal.md`
+- `Magic System/Elements/Sub-Elements/Earth/Gem.md`
+- `Magic System/Elements/Sub-Elements/Earth/Metal.md`
+- `Magic System/Elements/Sub-Elements/Earth/Mountain.md`
+- `Magic System/Elements/Sub-Elements/Earth/Sand.md`
+- `Magic System/Elements/Sub-Elements/Earth/Soil.md`
+- `Magic System/Elements/Sub-Elements/Earth/Stone.md`
+- `Magic System/Elements/Sub-Elements/Fire/Blaze.md`
+- `Magic System/Elements/Sub-Elements/Fire/Cinder.md`
+- `Magic System/Elements/Sub-Elements/Fire/Ember.md`
+- `Magic System/Elements/Sub-Elements/Fire/Flame.md`
+- `Magic System/Elements/Sub-Elements/Fire/Hearth.md`
+- `Magic System/Elements/Sub-Elements/Fire/Spark.md`
+- `Magic System/Elements/Sub-Elements/Fire/Wildfire.md`
+- `Magic System/Elements/Sub-Elements/Legendary/Nihil.md`
+- `Magic System/Elements/Sub-Elements/Legendary/Prima.md`
+- `Magic System/Elements/Sub-Elements/Life/Birth.md`
+- `Magic System/Elements/Sub-Elements/Life/Connection.md`
+- `Magic System/Elements/Sub-Elements/Life/Growth.md`
+- `Magic System/Elements/Sub-Elements/Life/Healing.md`
+- `Magic System/Elements/Sub-Elements/Light/Brilliance.md`
+- `Magic System/Elements/Sub-Elements/Light/Glimmer.md`
+- `Magic System/Elements/Sub-Elements/Matter/Density.md`
+- `Magic System/Elements/Sub-Elements/Matter/Resonance.md`
+- `Magic System/Elements/Sub-Elements/Matter/State.md`
+- `Magic System/Elements/Sub-Elements/Matter/Texture.md`
+- `Magic System/Elements/Sub-Elements/Matter/Transparency.md`
+- `Magic System/Elements/Sub-Elements/Temperature/Cold.md`
+- `Magic System/Elements/Sub-Elements/Temperature/Conduction.md`
+- `Magic System/Elements/Sub-Elements/Temperature/Equilibrium.md`
+- `Magic System/Elements/Sub-Elements/Temperature/Heat.md`
+- `Magic System/Elements/Sub-Elements/Temperature/Insulation.md`
+- `Magic System/Elements/Sub-Elements/Temperature/Phase‑Change.md`
+- `Magic System/Elements/Sub-Elements/Time/Cycle.md`
+- `Magic System/Elements/Sub-Elements/Time/Flow.md`
+- `Magic System/Elements/Sub-Elements/Time/Still.md`
+- `Magic System/Elements/Sub-Elements/Water/Deep.md`
+- `Magic System/Elements/Sub-Elements/Water/Flow.md`
+- `Magic System/Elements/Sub-Elements/Water/Ice.md`
+- `Magic System/Elements/Sub-Elements/Water/Mist.md`
+- `Magic System/Elements/Sub-Elements/Water/Rain.md`
+- `Magic System/Elements/Sub-Elements/Water/Spring.md`
+- `Magic System/Elements/Sub-Elements/Water/Still.md`
+- `Magic System/Elements/Sub-Elements/Water/Tide.md`
+- `Magic System/Elements/Sub-Elements/Wind/Breath.md`
+- `Magic System/Elements/Sub-Elements/Wind/Breeze.md`
+- `Magic System/Elements/Sub-Elements/Wind/Current.md`
+- `Magic System/Elements/Sub-Elements/Wind/Gale.md`
+- `Magic System/Elements/Sub-Elements/Wind/Jet.md`
+- `Magic System/Elements/Sub-Elements/Wind/Stormwind.md`
+- `Magic System/Elements/Sub-Elements/Wind/Vacuum.md`
+- `Magic System/Elements/Sub-Elements/Wind/Vortex.md`
+- `Magic System/Elements/Sub-Elements/Wind/Whisper.md`
+- `Magic System/Elements/Sub-Elements/Wind/Zephyr.md`
+- `Magic System/Elements/Temperature.md`
+- `Magic System/Elements/Time.md`
+- `Magic System/Elements/Water.md`
+- `Magic System/Elements/Wind.md`
+- `Magic System/Inks/Core.md`
+- `Magic System/Inks/Ember Ash.md`
+- `Magic System/Inks/Glasswater.md`
+- `Magic System/Inks/Hollow Ink.md`
+- `Magic System/Inks/Silverthread.md`
+- `Magic System/Inks/Verdant Sap.md`
+- `Magic System/Outlines/Amplification.md`
+- `Magic System/Outlines/Anchor.md`
+- `Magic System/Outlines/Connection.md`
+- `Magic System/Outlines/Containment.md`
+- `Magic System/Outlines/Core.md`
+- `Magic System/Outlines/Duration.md`
+- `Magic System/Outlines/Echo.md`
+- `Magic System/Outlines/Flow.md`
+- `Magic System/Outlines/Foundation.md`
+- `Magic System/Outlines/Fracture.md`
+- `Magic System/Outlines/Precision.md`
+- `Magic System/Outlines/Pulse.md`
+- `Magic System/Outlines/Resonance.md`
+- `Magic System/Outlines/Transformation.md`
+- `Magic System/Outlines/Trigger.md`
+- `Magic System/Outlines/Veil.md`
+- `Magic System/Spell Construction.md`
+- `Rules/Character/Advancement.md`
+- `Rules/Character/Backgrounds.md`
+- `Rules/Character/Character Creation.md`
+- `Rules/Character/Clans/Water/Rimekin.md`
+- `Rules/Character/Lineages.md`
+- `Rules/Character/Lineages/Afflictions/Illuminated.md`
+- `Rules/Character/Lineages/Drifters.md`
+- `Rules/Character/Lineages/Sericari.md`
+- `Rules/Character/Lineages/Sericari/Embercoil.md`
+- `Rules/Character/Skills.md`
+- `Rules/Character/Techniques.md`
+- `Rules/Character/Traits.md`
+- `Rules/Core/Attributes.md`
+- `Rules/Core/Character Resources.md`
+- `Rules/Core/Checks.md`
+- `Rules/Core/Derived-Statistics.md`
+- `Rules/Core/Glossary.md`
+- `Rules/Paths/Path-Abilities.md`
+- `Rules/Paths/Paths.md`
+- `Rules/Skills/Skills.md`
+- `Rules/Skills/Specializations.md`
+- `Rules/Skills/Techniques.md`
+- `Rules/Social/Renown.md`
+- `Rules/Social/Reputation-Tags.md`
+- `Rules/Social/Reputation.md`
+- `Rules/Social/Rumors.md`
+- `_system/.gitignore`
+- `_system/templates/Adventure.md`
+- `_system/templates/Archetype.md`
+- `_system/templates/Background.md`
+- `_system/templates/Biome.md`
+- `_system/templates/Calendar.md`
+- `_system/templates/Character  (Simple).md`
+- `_system/templates/Character (Extended).md`
+- `_system/templates/Climate Zone.md`
+- `_system/templates/Culture.md`
+- `_system/templates/Deity.md`
+- `_system/templates/Ecosistem.md`
+- `_system/templates/Element.md`
+- `_system/templates/Faction.md`
+- `_system/templates/Fauna.md`
+- `_system/templates/Flora.md`
+- `_system/templates/Glyph.md`
+- `_system/templates/Item.md`
+- `_system/templates/LICENSE`
+- `_system/templates/Language.md`
+- `_system/templates/Location.md`
+- `_system/templates/Mechanic.md`
+- `_system/templates/Monster.md`
+- `_system/templates/Outline.md`
+- `_system/templates/Quest.md`
+- `_system/templates/Region.md`
+- `_system/templates/Religion.md`
+- `_system/templates/Rule.md`
+- `_system/templates/Season.md`
+- `_system/templates/Seasons.md`
+- `_system/templates/Session Log.md`
+- `_system/templates/Setting.md`
+- `_system/templates/Species.md`
+- `_system/templates/SubElement.md`
+- `_system/templates/Table.md`
+- `_system/templates/Timeline.md`
+- `_system/templates/World.md`

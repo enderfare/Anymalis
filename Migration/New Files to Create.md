@@ -1,0 +1,176 @@
+# New Target File List
+
+Total planned target file paths: **172**. This list includes expected future files; many are not yet authored.
+
+- [ ] `New/Examples/Characters/Character-Sheet.md`
+- [ ] `New/Examples/Characters/Seraphine Vale.md`
+- [ ] `New/Examples/Spells/Spell Construction Examples.md`
+- [ ] `New/Lore/Conditions/Illuminated.md`
+- [ ] `New/Lore/Cosmology/The Four Paths.md`
+- [ ] `New/Lore/Lineages/Corveki.md`
+- [ ] `New/Lore/Lineages/Drifters.md`
+- [ ] `New/Lore/Lineages/Felinnari.md`
+- [ ] `New/Lore/Lineages/Sericari.md`
+- [ ] `New/Lore/Lineages/Sericari/Chronothread.md`
+- [ ] `New/Lore/Lineages/Sericari/Embercoil.md`
+- [ ] `New/Lore/Lineages/Sericari/Graveweaver.md`
+- [ ] `New/Lore/Lineages/Sericari/Lumithread.md`
+- [ ] `New/Lore/Lineages/Sericari/Stonecoil.md`
+- [ ] `New/Lore/Lineages/Sericari/Stormthread.md`
+- [ ] `New/Lore/Lineages/Sericari/Structureweaver.md`
+- [ ] `New/Lore/Lineages/Sericari/Thermoweaver.md`
+- [ ] `New/Lore/Lineages/Sericari/Tidewoven.md`
+- [ ] `New/Lore/Lineages/Sericari/Umbrasilk.md`
+- [ ] `New/Lore/Lineages/Sericari/Verdant.md`
+- [ ] `New/Lore/World/Resonance World.md`
+- [ ] `New/Magic System/Construction/Borders.md`
+- [ ] `New/Magic System/Construction/Conductors.md`
+- [ ] `New/Magic System/Construction/Foundation.md`
+- [ ] `New/Magic System/Construction/Inks.md`
+- [ ] `New/Magic System/Construction/Spell Construction.md`
+- [ ] `New/Magic System/Construction/Surfaces.md`
+- [ ] `New/Magic System/Core/Glyph Fatigue.md`
+- [ ] `New/Magic System/Core/Glyphs.md`
+- [ ] `New/Magic System/Core/Resonance Stability.md`
+- [ ] `New/Magic System/Core/Resonance.md`
+- [ ] `New/Magic System/Core/Resonant Scar.md`
+- [ ] `New/Magic System/Elements/Darkness/Darkness.md`
+- [ ] `New/Magic System/Elements/Darkness/Variants/Umbra.md`
+- [ ] `New/Magic System/Elements/Darkness/Variants/Void.md`
+- [ ] `New/Magic System/Elements/Death/Death.md`
+- [ ] `New/Magic System/Elements/Death/Variants/Decay.md`
+- [ ] `New/Magic System/Elements/Death/Variants/End.md`
+- [ ] `New/Magic System/Elements/Death/Variants/Passing.md`
+- [ ] `New/Magic System/Elements/Earth/Earth.md`
+- [ ] `New/Magic System/Elements/Earth/Variants/Cave.md`
+- [ ] `New/Magic System/Elements/Earth/Variants/Clay.md`
+- [ ] `New/Magic System/Elements/Earth/Variants/Crystal.md`
+- [ ] `New/Magic System/Elements/Earth/Variants/Gem.md`
+- [ ] `New/Magic System/Elements/Earth/Variants/Metal.md`
+- [ ] `New/Magic System/Elements/Earth/Variants/Mountain.md`
+- [ ] `New/Magic System/Elements/Earth/Variants/Sand.md`
+- [ ] `New/Magic System/Elements/Earth/Variants/Soil.md`
+- [ ] `New/Magic System/Elements/Earth/Variants/Stone.md`
+- [ ] `New/Magic System/Elements/Fire/Fire.md`
+- [ ] `New/Magic System/Elements/Fire/Variants/Blaze.md`
+- [ ] `New/Magic System/Elements/Fire/Variants/Cinder.md`
+- [ ] `New/Magic System/Elements/Fire/Variants/Ember.md`
+- [ ] `New/Magic System/Elements/Fire/Variants/Flame.md`
+- [ ] `New/Magic System/Elements/Fire/Variants/Hearth.md`
+- [ ] `New/Magic System/Elements/Fire/Variants/Spark.md`
+- [ ] `New/Magic System/Elements/Fire/Variants/Wildfire.md`
+- [ ] `New/Magic System/Elements/Life/Life.md`
+- [ ] `New/Magic System/Elements/Life/Variants/Birth.md`
+- [ ] `New/Magic System/Elements/Life/Variants/Connection.md`
+- [ ] `New/Magic System/Elements/Life/Variants/Growth.md`
+- [ ] `New/Magic System/Elements/Life/Variants/Healing.md`
+- [ ] `New/Magic System/Elements/Light/Light.md`
+- [ ] `New/Magic System/Elements/Light/Variants/Brilliance.md`
+- [ ] `New/Magic System/Elements/Light/Variants/Glimmer.md`
+- [ ] `New/Magic System/Elements/Matter/Matter.md`
+- [ ] `New/Magic System/Elements/Matter/Variants/Density.md`
+- [ ] `New/Magic System/Elements/Matter/Variants/Resonance.md`
+- [ ] `New/Magic System/Elements/Matter/Variants/State.md`
+- [ ] `New/Magic System/Elements/Matter/Variants/Texture.md`
+- [ ] `New/Magic System/Elements/Matter/Variants/Transparency.md`
+- [ ] `New/Magic System/Elements/Temperature/Temperature.md`
+- [ ] `New/Magic System/Elements/Temperature/Variants/Cold.md`
+- [ ] `New/Magic System/Elements/Temperature/Variants/Conduction.md`
+- [ ] `New/Magic System/Elements/Temperature/Variants/Equilibrium.md`
+- [ ] `New/Magic System/Elements/Temperature/Variants/Heat.md`
+- [ ] `New/Magic System/Elements/Temperature/Variants/Insulation.md`
+- [ ] `New/Magic System/Elements/Temperature/Variants/Phase‑Change.md`
+- [ ] `New/Magic System/Elements/Time/Time.md`
+- [ ] `New/Magic System/Elements/Time/Variants/Cycle.md`
+- [ ] `New/Magic System/Elements/Time/Variants/Flow.md`
+- [ ] `New/Magic System/Elements/Time/Variants/Still.md`
+- [ ] `New/Magic System/Elements/Water/Variants/Deep.md`
+- [ ] `New/Magic System/Elements/Water/Variants/Flow.md`
+- [ ] `New/Magic System/Elements/Water/Variants/Ice.md`
+- [ ] `New/Magic System/Elements/Water/Variants/Mist.md`
+- [ ] `New/Magic System/Elements/Water/Variants/Rain.md`
+- [ ] `New/Magic System/Elements/Water/Variants/Spring.md`
+- [ ] `New/Magic System/Elements/Water/Variants/Still.md`
+- [ ] `New/Magic System/Elements/Water/Variants/Tide.md`
+- [ ] `New/Magic System/Elements/Water/Water.md`
+- [ ] `New/Magic System/Elements/Wind/Variants/Breath.md`
+- [ ] `New/Magic System/Elements/Wind/Variants/Breeze.md`
+- [ ] `New/Magic System/Elements/Wind/Variants/Current.md`
+- [ ] `New/Magic System/Elements/Wind/Variants/Gale.md`
+- [ ] `New/Magic System/Elements/Wind/Variants/Jet.md`
+- [ ] `New/Magic System/Elements/Wind/Variants/Stormwind.md`
+- [ ] `New/Magic System/Elements/Wind/Variants/Vacuum.md`
+- [ ] `New/Magic System/Elements/Wind/Variants/Vortex.md`
+- [ ] `New/Magic System/Elements/Wind/Variants/Whisper.md`
+- [ ] `New/Magic System/Elements/Wind/Variants/Zephyr.md`
+- [ ] `New/Magic System/Elements/Wind/Wind.md`
+- [ ] `New/Magic System/Meta-Glyphs/Nihil.md`
+- [ ] `New/Magic System/Meta-Glyphs/Prima.md`
+- [ ] `New/Magic System/Outlines/Amplification.md`
+- [ ] `New/Magic System/Outlines/Anchor.md`
+- [ ] `New/Magic System/Outlines/Connection.md`
+- [ ] `New/Magic System/Outlines/Containment.md`
+- [ ] `New/Magic System/Outlines/Duration.md`
+- [ ] `New/Magic System/Outlines/Echo.md`
+- [ ] `New/Magic System/Outlines/Flow.md`
+- [ ] `New/Magic System/Outlines/Foundation.md`
+- [ ] `New/Magic System/Outlines/Fracture.md`
+- [ ] `New/Magic System/Outlines/Precision.md`
+- [ ] `New/Magic System/Outlines/Pulse.md`
+- [ ] `New/Magic System/Outlines/Resonance.md`
+- [ ] `New/Magic System/Outlines/Transformation.md`
+- [ ] `New/Magic System/Outlines/Trigger.md`
+- [ ] `New/Magic System/Outlines/Veil.md`
+- [ ] `New/Reference/Elements.md`
+- [ ] `New/Reference/Glossary.md`
+- [ ] `New/Reference/Lineages.md`
+- [ ] `New/Reference/Paths.md`
+- [ ] `New/Reference/Skills.md`
+- [ ] `New/Reference/Variants.md`
+- [ ] `New/Rules/Biology/ATS.md`
+- [ ] `New/Rules/Biology/Biological Traits.md`
+- [ ] `New/Rules/Biology/HTS.md`
+- [ ] `New/Rules/Biology/Quimera Percentage.md`
+- [ ] `New/Rules/Character/Advancement.md`
+- [ ] `New/Rules/Character/Attributes.md`
+- [ ] `New/Rules/Character/Backgrounds.md`
+- [ ] `New/Rules/Character/Character Creation.md`
+- [ ] `New/Rules/Character/Checks.md`
+- [ ] `New/Rules/Character/Derived Statistics.md`
+- [ ] `New/Rules/Character/Lineages/Corveki.md`
+- [ ] `New/Rules/Character/Lineages/Drifters.md`
+- [ ] `New/Rules/Character/Lineages/Felinnari.md`
+- [ ] `New/Rules/Character/Lineages/Sericari.md`
+- [ ] `New/Rules/Character/Lineages/Sericari/Chronothread.md`
+- [ ] `New/Rules/Character/Lineages/Sericari/Embercoil.md`
+- [ ] `New/Rules/Character/Lineages/Sericari/Graveweaver.md`
+- [ ] `New/Rules/Character/Lineages/Sericari/Lumithread.md`
+- [ ] `New/Rules/Character/Lineages/Sericari/Stonecoil.md`
+- [ ] `New/Rules/Character/Lineages/Sericari/Stormthread.md`
+- [ ] `New/Rules/Character/Lineages/Sericari/Structureweaver.md`
+- [ ] `New/Rules/Character/Lineages/Sericari/Thermoweaver.md`
+- [ ] `New/Rules/Character/Lineages/Sericari/Tidewoven.md`
+- [ ] `New/Rules/Character/Lineages/Sericari/Umbrasilk.md`
+- [ ] `New/Rules/Character/Lineages/Sericari/Verdant.md`
+- [ ] `New/Rules/Character/Resources.md`
+- [ ] `New/Rules/Character/Skills.md`
+- [ ] `New/Rules/Character/Specializations.md`
+- [ ] `New/Rules/Character/Techniques.md`
+- [ ] `New/Rules/Character/Traits.md`
+- [ ] `New/Rules/Conditions/Afflictions.md`
+- [ ] `New/Rules/Conditions/Conditions.md`
+- [ ] `New/Rules/Conditions/Illuminated.md`
+- [ ] `New/Rules/Core/Core Rules.md`
+- [ ] `New/Rules/Core/Terminology.md`
+- [ ] `New/Rules/Paths/Four Paths.md`
+- [ ] `New/Rules/Paths/Path Abilities.md`
+- [ ] `New/Rules/Paths/Path Integration.md`
+- [ ] `New/Rules/Paths/Path Skills.md`
+- [ ] `New/Rules/Social/Renown.md`
+- [ ] `New/Rules/Social/Reputation.md`
+- [ ] `New/Rules/Social/Rumors.md`
+- [ ] `New/Rules/Social/Social Integration.md`
+- [ ] `New/Rules/Social/Tags.md`
+- [ ] `New/_system/Architecture.md`
+- [ ] `New/_system/Migration.md`
+- [ ] `New/_system/Naming Conventions.md`

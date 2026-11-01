@@ -2,7 +2,7 @@
 
 > **Purpose:** Master control document for the Anymalis canon, repository migration, file ownership, consolidation, and replacement workflow.
 >
-> This document defines **what is currently canon, what is historical, what must be consolidated, what files are expected to exist, and which existing files must be inspected before creating new ones.**
+> This document defines **canon precedence, historical-source handling, file ownership, consolidation principles, and migration safeguards.** It is a control reference, not a replacement for the source lore or rules.
 >
 > It is a planning and control document. It does not itself replace the detailed lore or rules contained in the referenced files.
 

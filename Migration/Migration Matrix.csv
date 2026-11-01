@@ -1,0 +1,188 @@
+﻿Old source path (inside Old/Repository Snapshot/),New target path (inside New/) or disposition,Action
+.chronicler.vault.json,Project Config / retain or review: .chronicler.vault.json,Consolidate / move
+Clans/Water/Rimekin.md,Archive/Legacy/Clans/Water/Rimekin.md,Consolidate / move
+Examples/Character/Character Seraphine Vale.md,Examples/Characters/Seraphine Vale.md,Consolidate / move
+Examples/Character/Character-Sheet.md,Examples/Characters/Character-Sheet.md,Consolidate / move
+Examples/Spell Construction Examples.md,Examples/Spells/Spell Construction Examples.md,Consolidate / move
+Lineages (Simple) Outdated/Afflictions/Luminaris.md,Archive/Legacy/Lineages (Simple) Outdated/Afflictions/Luminaris.md,Historical archive
+Lineages (Simple) Outdated/Corveki.md,Archive/Legacy/Lineages (Simple) Outdated/Corveki.md,Historical archive
+Lineages (Simple) Outdated/Drifters.md,Archive/Legacy/Lineages (Simple) Outdated/Drifters.md,Historical archive
+Lineages (Simple) Outdated/Felinnari.md,Archive/Legacy/Lineages (Simple) Outdated/Felinnari.md,Historical archive
+Lineages (Simple) Outdated/Sericari.md,Archive/Legacy/Lineages (Simple) Outdated/Sericari.md,Historical archive
+Lineages (Simple) Outdated/Sericari/Darkness Sericari (Umbrasilk).md,Archive/Legacy/Lineages (Simple) Outdated/Sericari/Darkness Sericari (Umbrasilk).md,Historical archive
+Lineages (Simple) Outdated/Sericari/Death Sericari (Graveweaver).md,Archive/Legacy/Lineages (Simple) Outdated/Sericari/Death Sericari (Graveweaver).md,Historical archive
+Lineages (Simple) Outdated/Sericari/Earth Sericari (Stonecoil).md,Archive/Legacy/Lineages (Simple) Outdated/Sericari/Earth Sericari (Stonecoil).md,Historical archive
+Lineages (Simple) Outdated/Sericari/Fire Sericari (Embercoil).md,Archive/Legacy/Lineages (Simple) Outdated/Sericari/Fire Sericari (Embercoil).md,Historical archive
+Lineages (Simple) Outdated/Sericari/Life Sericari (Verdant).md,Archive/Legacy/Lineages (Simple) Outdated/Sericari/Life Sericari (Verdant).md,Historical archive
+Lineages (Simple) Outdated/Sericari/Light Sericari (Lumithread).md,Archive/Legacy/Lineages (Simple) Outdated/Sericari/Light Sericari (Lumithread).md,Historical archive
+Lineages (Simple) Outdated/Sericari/Matter Sericari (Structureweaver).md,Archive/Legacy/Lineages (Simple) Outdated/Sericari/Matter Sericari (Structureweaver).md,Historical archive
+Lineages (Simple) Outdated/Sericari/Temperature Sericari (Thermoweaver).md,Archive/Legacy/Lineages (Simple) Outdated/Sericari/Temperature Sericari (Thermoweaver).md,Historical archive
+Lineages (Simple) Outdated/Sericari/Time Sericari (Chronothread).md,Archive/Legacy/Lineages (Simple) Outdated/Sericari/Time Sericari (Chronothread).md,Historical archive
+Lineages (Simple) Outdated/Sericari/Water Sericari (Tidewoven).md,Archive/Legacy/Lineages (Simple) Outdated/Sericari/Water Sericari (Tidewoven).md,Historical archive
+Lineages (Simple) Outdated/Sericari/Wind Sericari (Stormthread).md,Archive/Legacy/Lineages (Simple) Outdated/Sericari/Wind Sericari (Stormthread).md,Historical archive
+Lore/Clans/Water/Rimekin.md,Lore/Clans/Water/Rimekin.md,Preserve / update
+Lore/Lineages/Afflictions/Illuminated.md,Lore/Conditions/Illuminated.md,Consolidate / move
+Lore/Lineages/Drifters.md,Lore/Lineages/Drifters.md,Preserve / update
+Lore/Lineages/Sericari.md,Lore/Lineages/Sericari.md,Preserve / update
+Lore/The Four Paths.md,Lore/Cosmology/The Four Paths.md,Consolidate / move
+Lore/The Resonance World.md,Lore/World/Resonance World.md,Consolidate / move
+Magic System/Core Principles.md,Magic System/Core/Resonance.md,Consolidate / move
+Magic System/Elements/Darkness.md,Magic System/Elements/Darkness/Darkness.md,Consolidate / move
+Magic System/Elements/Death.md,Magic System/Elements/Death/Death.md,Consolidate / move
+Magic System/Elements/Earth.md,Magic System/Elements/Earth/Earth.md,Consolidate / move
+Magic System/Elements/Fire.md,Magic System/Elements/Fire/Fire.md,Consolidate / move
+Magic System/Elements/Legendary Elements.md,Magic System/Meta-Glyphs/README.md,Consolidate / move
+Magic System/Elements/Life.md,Magic System/Elements/Life/Life.md,Consolidate / move
+Magic System/Elements/Light.md,Magic System/Elements/Light/Light.md,Consolidate / move
+Magic System/Elements/Matter.md,Magic System/Elements/Matter/Matter.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Darkness/Umbra.md,Magic System/Elements/Darkness/Variants/Umbra.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Darkness/Void.md,Magic System/Elements/Darkness/Variants/Void.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Death/Decay.md,Magic System/Elements/Death/Variants/Decay.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Death/End.md,Magic System/Elements/Death/Variants/End.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Death/Passing.md,Magic System/Elements/Death/Variants/Passing.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Earth/Cave.md,Magic System/Elements/Earth/Variants/Cave.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Earth/Clay.md,Magic System/Elements/Earth/Variants/Clay.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Earth/Crystal.md,Magic System/Elements/Earth/Variants/Crystal.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Earth/Gem.md,Magic System/Elements/Earth/Variants/Gem.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Earth/Metal.md,Magic System/Elements/Earth/Variants/Metal.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Earth/Mountain.md,Magic System/Elements/Earth/Variants/Mountain.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Earth/Sand.md,Magic System/Elements/Earth/Variants/Sand.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Earth/Soil.md,Magic System/Elements/Earth/Variants/Soil.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Earth/Stone.md,Magic System/Elements/Earth/Variants/Stone.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Fire/Blaze.md,Magic System/Elements/Fire/Variants/Blaze.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Fire/Cinder.md,Magic System/Elements/Fire/Variants/Cinder.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Fire/Ember.md,Magic System/Elements/Fire/Variants/Ember.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Fire/Flame.md,Magic System/Elements/Fire/Variants/Flame.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Fire/Hearth.md,Magic System/Elements/Fire/Variants/Hearth.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Fire/Spark.md,Magic System/Elements/Fire/Variants/Spark.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Fire/Wildfire.md,Magic System/Elements/Fire/Variants/Wildfire.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Legendary/Nihil.md,Magic System/Elements/Legendary/Variants/Nihil.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Legendary/Prima.md,Magic System/Elements/Legendary/Variants/Prima.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Life/Birth.md,Magic System/Elements/Life/Variants/Birth.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Life/Connection.md,Magic System/Elements/Life/Variants/Connection.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Life/Growth.md,Magic System/Elements/Life/Variants/Growth.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Life/Healing.md,Magic System/Elements/Life/Variants/Healing.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Light/Brilliance.md,Magic System/Elements/Light/Variants/Brilliance.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Light/Glimmer.md,Magic System/Elements/Light/Variants/Glimmer.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Matter/Density.md,Magic System/Elements/Matter/Variants/Density.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Matter/Resonance.md,Magic System/Elements/Matter/Variants/Resonance.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Matter/State.md,Magic System/Elements/Matter/Variants/State.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Matter/Texture.md,Magic System/Elements/Matter/Variants/Texture.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Matter/Transparency.md,Magic System/Elements/Matter/Variants/Transparency.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Temperature/Cold.md,Magic System/Elements/Temperature/Variants/Cold.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Temperature/Conduction.md,Magic System/Elements/Temperature/Variants/Conduction.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Temperature/Equilibrium.md,Magic System/Elements/Temperature/Variants/Equilibrium.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Temperature/Heat.md,Magic System/Elements/Temperature/Variants/Heat.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Temperature/Insulation.md,Magic System/Elements/Temperature/Variants/Insulation.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Temperature/Phase‑Change.md,Magic System/Elements/Temperature/Variants/Phase‑Change.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Time/Cycle.md,Magic System/Elements/Time/Variants/Cycle.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Time/Flow.md,Magic System/Elements/Time/Variants/Flow.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Time/Still.md,Magic System/Elements/Time/Variants/Still.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Water/Deep.md,Magic System/Elements/Water/Variants/Deep.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Water/Flow.md,Magic System/Elements/Water/Variants/Flow.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Water/Ice.md,Magic System/Elements/Water/Variants/Ice.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Water/Mist.md,Magic System/Elements/Water/Variants/Mist.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Water/Rain.md,Magic System/Elements/Water/Variants/Rain.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Water/Spring.md,Magic System/Elements/Water/Variants/Spring.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Water/Still.md,Magic System/Elements/Water/Variants/Still.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Water/Tide.md,Magic System/Elements/Water/Variants/Tide.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Wind/Breath.md,Magic System/Elements/Wind/Variants/Breath.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Wind/Breeze.md,Magic System/Elements/Wind/Variants/Breeze.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Wind/Current.md,Magic System/Elements/Wind/Variants/Current.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Wind/Gale.md,Magic System/Elements/Wind/Variants/Gale.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Wind/Jet.md,Magic System/Elements/Wind/Variants/Jet.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Wind/Stormwind.md,Magic System/Elements/Wind/Variants/Stormwind.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Wind/Vacuum.md,Magic System/Elements/Wind/Variants/Vacuum.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Wind/Vortex.md,Magic System/Elements/Wind/Variants/Vortex.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Wind/Whisper.md,Magic System/Elements/Wind/Variants/Whisper.md,Consolidate / move
+Magic System/Elements/Sub-Elements/Wind/Zephyr.md,Magic System/Elements/Wind/Variants/Zephyr.md,Consolidate / move
+Magic System/Elements/Temperature.md,Magic System/Elements/Temperature/Temperature.md,Consolidate / move
+Magic System/Elements/Time.md,Magic System/Elements/Time/Time.md,Consolidate / move
+Magic System/Elements/Water.md,Magic System/Elements/Water/Water.md,Consolidate / move
+Magic System/Elements/Wind.md,Magic System/Elements/Wind/Wind.md,Consolidate / move
+Magic System/Inks/Core.md,Magic System/Inks/Core.md,Preserve / update
+Magic System/Inks/Ember Ash.md,Magic System/Inks/Ember Ash.md,Preserve / update
+Magic System/Inks/Glasswater.md,Magic System/Inks/Glasswater.md,Preserve / update
+Magic System/Inks/Hollow Ink.md,Magic System/Inks/Hollow Ink.md,Preserve / update
+Magic System/Inks/Silverthread.md,Magic System/Inks/Silverthread.md,Preserve / update
+Magic System/Inks/Verdant Sap.md,Magic System/Inks/Verdant Sap.md,Preserve / update
+Magic System/Outlines/Amplification.md,Magic System/Outlines/Amplification.md,Preserve / update
+Magic System/Outlines/Anchor.md,Magic System/Outlines/Anchor.md,Preserve / update
+Magic System/Outlines/Connection.md,Magic System/Outlines/Connection.md,Preserve / update
+Magic System/Outlines/Containment.md,Magic System/Outlines/Containment.md,Preserve / update
+Magic System/Outlines/Core.md,Magic System/Outlines/Core.md,Preserve / update
+Magic System/Outlines/Duration.md,Magic System/Outlines/Duration.md,Preserve / update
+Magic System/Outlines/Echo.md,Magic System/Outlines/Echo.md,Preserve / update
+Magic System/Outlines/Flow.md,Magic System/Outlines/Flow.md,Preserve / update
+Magic System/Outlines/Foundation.md,Magic System/Outlines/Foundation.md,Preserve / update
+Magic System/Outlines/Fracture.md,Magic System/Outlines/Fracture.md,Preserve / update
+Magic System/Outlines/Precision.md,Magic System/Outlines/Precision.md,Preserve / update
+Magic System/Outlines/Pulse.md,Magic System/Outlines/Pulse.md,Preserve / update
+Magic System/Outlines/Resonance.md,Magic System/Outlines/Resonance.md,Preserve / update
+Magic System/Outlines/Transformation.md,Magic System/Outlines/Transformation.md,Preserve / update
+Magic System/Outlines/Trigger.md,Magic System/Outlines/Trigger.md,Preserve / update
+Magic System/Outlines/Veil.md,Magic System/Outlines/Veil.md,Preserve / update
+Magic System/Spell Construction.md,Magic System/Construction/Spell Construction.md,Consolidate / move
+Rules/Character/Advancement.md,Rules/Character/Advancement.md,Preserve / update
+Rules/Character/Backgrounds.md,Rules/Character/Backgrounds.md,Preserve / update
+Rules/Character/Character Creation.md,Rules/Character/Character Creation.md,Preserve / update
+Rules/Character/Clans/Water/Rimekin.md,Rules/Clans/Water/Rimekin.md,Consolidate / move
+Rules/Character/Lineages.md,Rules/Character/Lineages.md,Preserve / update
+Rules/Character/Lineages/Afflictions/Illuminated.md,Rules/Conditions/Illuminated.md,Consolidate / move
+Rules/Character/Lineages/Drifters.md,Rules/Character/Lineages/Drifters.md,Preserve / update
+Rules/Character/Lineages/Sericari.md,Rules/Character/Lineages/Sericari.md,Preserve / update
+Rules/Character/Lineages/Sericari/Embercoil.md,Rules/Character/Lineages/Sericari/Embercoil.md,Preserve / update
+Rules/Character/Skills.md,Rules/Character/Skills.md,Preserve / update
+Rules/Character/Techniques.md,Rules/Character/Techniques.md,Preserve / update
+Rules/Character/Traits.md,Rules/Character/Traits.md,Preserve / update
+Rules/Core/Attributes.md,Rules/Character/Attributes.md,Consolidate / move
+Rules/Core/Character Resources.md,Rules/Character/Resources.md,Consolidate / move
+Rules/Core/Checks.md,Rules/Character/Checks.md,Consolidate / move
+Rules/Core/Derived-Statistics.md,Rules/Character/Derived Statistics.md,Consolidate / move
+Rules/Core/Glossary.md,Rules/Core/Terminology.md,Consolidate / move
+Rules/Paths/Path-Abilities.md,Rules/Paths/Path Abilities.md,Consolidate / move
+Rules/Paths/Paths.md,Rules/Paths/Four Paths.md,Consolidate / move
+Rules/Skills/Skills.md,Rules/Character/Skills.md,Consolidate / move
+Rules/Skills/Specializations.md,Rules/Character/Specializations.md,Consolidate / move
+Rules/Skills/Techniques.md,Rules/Character/Techniques.md,Consolidate / move
+Rules/Social/Renown.md,Rules/Social/Renown.md,Preserve / update
+Rules/Social/Reputation-Tags.md,Rules/Social/Tags.md,Consolidate / move
+Rules/Social/Reputation.md,Rules/Social/Reputation.md,Preserve / update
+Rules/Social/Rumors.md,Rules/Social/Rumors.md,Preserve / update
+_system/.gitignore,_system/.gitignore,Preserve / update
+_system/templates/Adventure.md,_system/templates/Adventure.md,Preserve / update
+_system/templates/Archetype.md,_system/templates/Archetype.md,Preserve / update
+_system/templates/Background.md,_system/templates/Background.md,Preserve / update
+_system/templates/Biome.md,_system/templates/Biome.md,Preserve / update
+_system/templates/Calendar.md,_system/templates/Calendar.md,Preserve / update
+_system/templates/Character  (Simple).md,_system/templates/Character  (Simple).md,Preserve / update
+_system/templates/Character (Extended).md,_system/templates/Character (Extended).md,Preserve / update
+_system/templates/Climate Zone.md,_system/templates/Climate Zone.md,Preserve / update
+_system/templates/Culture.md,_system/templates/Culture.md,Preserve / update
+_system/templates/Deity.md,_system/templates/Deity.md,Preserve / update
+_system/templates/Ecosistem.md,_system/templates/Ecosistem.md,Preserve / update
+_system/templates/Element.md,_system/templates/Element.md,Preserve / update
+_system/templates/Faction.md,_system/templates/Faction.md,Preserve / update
+_system/templates/Fauna.md,_system/templates/Fauna.md,Preserve / update
+_system/templates/Flora.md,_system/templates/Flora.md,Preserve / update
+_system/templates/Glyph.md,_system/templates/Glyph.md,Preserve / update
+_system/templates/Item.md,_system/templates/Item.md,Preserve / update
+_system/templates/LICENSE,_system/templates/LICENSE,Preserve / update
+_system/templates/Language.md,_system/templates/Language.md,Preserve / update
+_system/templates/Location.md,_system/templates/Location.md,Preserve / update
+_system/templates/Mechanic.md,_system/templates/Mechanic.md,Preserve / update
+_system/templates/Monster.md,_system/templates/Monster.md,Preserve / update
+_system/templates/Outline.md,_system/templates/Outline.md,Preserve / update
+_system/templates/Quest.md,_system/templates/Quest.md,Preserve / update
+_system/templates/Region.md,_system/templates/Region.md,Preserve / update
+_system/templates/Religion.md,_system/templates/Religion.md,Preserve / update
+_system/templates/Rule.md,_system/templates/Rule.md,Preserve / update
+_system/templates/Season.md,_system/templates/Season.md,Preserve / update
+_system/templates/Seasons.md,_system/templates/Seasons.md,Preserve / update
+_system/templates/Session Log.md,_system/templates/Session Log.md,Preserve / update
+_system/templates/Setting.md,_system/templates/Setting.md,Preserve / update
+_system/templates/Species.md,_system/templates/Species.md,Preserve / update
+_system/templates/SubElement.md,_system/templates/SubElement.md,Preserve / update
+_system/templates/Table.md,_system/templates/Table.md,Preserve / update
+_system/templates/Timeline.md,_system/templates/Timeline.md,Preserve / update
+_system/templates/World.md,_system/templates/World.md,Preserve / update
